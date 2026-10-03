@@ -1,4 +1,4 @@
-# Transone chip can have even more than 4 binary cores but upto 8, or 16 or 32 binary cores!.
+**Transone chip can have even more than 4 binary cores but upto 8, or 16 or 32 binary cores!.**
 * To support 8, 16, or 32 binary cores without choking the interface, the Transone-OptimusP hard macro would simply scale its internal translation layout.
 
 * Instead of a single translation pipe, the OptimusP can be configured with multiple parallel conversion channels (e.g., 4 or 8 independent Bit-to-Voltage clusters acting at the same time).
